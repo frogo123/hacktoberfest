@@ -23,6 +23,12 @@ body {
   padding: 1vw;
 }
 
+.faq {
+  font-family: 'Pacifico', cursive;
+  font-size: 70px !important;
+  text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+
 /* .main-bg {
     background: url('https://www.hemglass.se/media/1232/kladdkaka_2.png') no-repeat left top fixed;
 } */
@@ -36,6 +42,7 @@ body {
 .h1-hover:hover {
   cursor: url('../images/NinjaDuck_min.jpg'), pointer;
 }
+
 
 h1,
 h2,
